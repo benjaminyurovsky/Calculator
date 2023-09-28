@@ -1,2 +1,2 @@
-# Calculator
-Simple calculator built using HTML, CSS, and JavaScript
+# Apple Calculator
+Apple inspired calculator built using HTML, CSS, and JavaScript
